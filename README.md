@@ -125,6 +125,7 @@ Files are deployed to server directory
 
 Basic CI automation achieved
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/final%20automation.png)
 
 
 # 🎯 Learning Outcome
