@@ -89,6 +89,8 @@ Connected GitHub repository URL
 
 Configured Source Code Management → Git
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/create%20job.png)
+
 # Step 7 — Configure Build Step
 
 Added Execute Shell build step:
