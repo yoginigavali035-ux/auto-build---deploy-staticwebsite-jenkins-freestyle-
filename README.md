@@ -79,6 +79,8 @@ Git plugin
 
 GitHub integration plugin
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/install%20git%20pluggins.png)
+
 # Step 6 — Create Jenkins Freestyle Job
 
 Created new Freestyle project
