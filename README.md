@@ -4,7 +4,7 @@
 
 This project demonstrates a basic Jenkins Freestyle job that automatically pulls code from a GitHub repository and deploys a simple static website to a server folder. It shows basic CI/CD automation using Jenkins and Git.
 
-🛠 Tools Used
+# 🛠 Tools Used
 
 GitHub
 
@@ -14,10 +14,10 @@ Jenkins
 
 Git
 
-Linux commands
+# Linux commands
 
 📂 Project Steps
-Step 1 — Create GitHub Repository
+# Step 1 — Create GitHub Repository
 
 Created a new GitHub repository
 
@@ -25,7 +25,7 @@ Added a simple index.html file
 
 Pushed the code to GitHub
 
-Step 2 — Launch EC2 Instance
+# Step 2 — Launch EC2 Instance
 
 Launched Ubuntu EC2 instance
 
@@ -37,7 +37,7 @@ Opened required ports:
 
 80 → Web access (optional)
 
-Step 3 — Install Jenkins
+# Step 3 — Install Jenkins
 
 Connected to server using PowerShell (SSH)
 
@@ -51,7 +51,7 @@ Accessed Jenkins using:
 
 http://54.251.131.78:8080
 
-Step 4 — Initial Jenkins Setup
+# Step 4 — Initial Jenkins Setup
 
 Unlocked Jenkins
 
@@ -59,7 +59,7 @@ Completed initial setup
 
 Installed suggested plugins
 
-Step 5 — Install Required Plugins
+# Step 5 — Install Required Plugins
 
 Installed plugins:
 
@@ -67,7 +67,7 @@ Git plugin
 
 GitHub integration plugin
 
-Step 6 — Create Jenkins Freestyle Job
+# Step 6 — Create Jenkins Freestyle Job
 
 Created new Freestyle project
 
@@ -75,7 +75,7 @@ Connected GitHub repository URL
 
 Configured Source Code Management → Git
 
-Step 7 — Configure Build Step
+# Step 7 — Configure Build Step
 
 Added Execute Shell build step:
 
@@ -85,13 +85,13 @@ sudo cp -r * /home/ubuntu/deploy/
 
 This command copies project files from Jenkins workspace to deploy folder.
 
-Step 8 — Build Trigger Setup
+# Step 8 — Build Trigger Setup
 
 Enabled Poll SCM or GitHub Webhook
 
 Automation triggers build when code changes are pushed
 
-✅ Result
+# ✅ Result
 
 Jenkins successfully pulls code from GitHub
 
@@ -101,7 +101,7 @@ Files are deployed to server directory
 
 Basic CI automation achieved
 
-🎯 Learning Outcome
+# 🎯 Learning Outcome
 
 Jenkins installation and setup
 
