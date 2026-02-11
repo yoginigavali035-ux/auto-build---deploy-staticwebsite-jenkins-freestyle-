@@ -101,6 +101,10 @@ sudo cp -r * /home/ubuntu/deploy/
 
 This command copies project files from Jenkins workspace to deploy folder.
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/add%20git.png)
+
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/add%20build.png)
+
 # Step 8 — Build Trigger Setup
 
 Enabled Poll SCM or GitHub Webhook
