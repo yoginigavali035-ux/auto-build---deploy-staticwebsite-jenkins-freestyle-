@@ -111,6 +111,10 @@ Enabled Poll SCM or GitHub Webhook
 
 Automation triggers build when code changes are pushed
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/Screenshot%202026-02-11%20201747.png)
+
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/check%20deploy.png)
+
 # ✅ Result
 
 Jenkins successfully pulls code from GitHub
@@ -120,6 +124,8 @@ Build runs automatically
 Files are deployed to server directory
 
 Basic CI automation achieved
+
+
 
 # 🎯 Learning Outcome
 
