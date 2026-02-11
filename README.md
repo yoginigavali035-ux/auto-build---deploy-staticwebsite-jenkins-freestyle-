@@ -25,6 +25,9 @@ Added a simple index.html file
 
 Pushed the code to GitHub
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/create%20repository.png)
+
+
 # Step 2 — Launch EC2 Instance
 
 Launched Ubuntu EC2 instance
