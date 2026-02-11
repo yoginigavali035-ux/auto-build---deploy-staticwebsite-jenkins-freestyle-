@@ -21,11 +21,16 @@ Git
 
 Created a new GitHub repository
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/create%20repository.png)
+
+
 Added a simple index.html file
+
+![img alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/add%20index.html%20file.png)
+
 
 Pushed the code to GitHub
 
-![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/create%20repository.png)
 
 
 # Step 2 — Launch EC2 Instance
