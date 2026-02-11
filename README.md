@@ -61,6 +61,8 @@ Accessed Jenkins using:
 
 http://54.251.131.78:8080
 
+![image alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/install%20jenkins.png)
+
 # Step 4 — Initial Jenkins Setup
 
 Unlocked Jenkins
