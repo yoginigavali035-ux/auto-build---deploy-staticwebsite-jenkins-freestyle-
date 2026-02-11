@@ -45,6 +45,8 @@ Opened required ports:
 
 80 → Web access (optional)
 
+![img alt](https://github.com/yoginigavali035-ux/auto-build---deploy-staticwebsite-jenkins-freestyle-/blob/main/images/launch%20instance.png)
+
 # Step 3 — Install Jenkins
 
 Connected to server using PowerShell (SSH)
